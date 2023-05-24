@@ -1,0 +1,165 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+body{
+
+    background-color: rgb(193, 196, 164);
+    font-family: 'Anton', sans-serif;
+    font-family: 'Oswald', sans-serif;    
+}
+
+.container{
+
+    max-width: 900px;
+    background-color: rgba(15, 226, 208, 0.671);
+    margin: 0 auto;    padding: 25px;
+    border: 1px solid black;
+
+}
+
+header{
+
+}
+
+.profile-photo{
+
+    width: 100px;
+    height: 100px;
+    border: 3px solid white;
+    border-radius: 50%;
+    float: left;
+    
+}
+
+.header-bio{
+
+    float: left;
+    padding: 15px;
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.header-contact{
+
+    float: right;
+    padding: 20px;
+
+}
+
+.header-contact a{
+
+    text-decoration: none;
+    color: teal;
+   
+}
+
+.header-contact a:hover{
+
+    text-decoration: underline;
+    color: black;
+
+}
+
+h1, h2, h3, h4, h5{
+
+    color: teal;
+
+
+}
+
+.div-clear{
+
+    clear: both;
+}
+
+hr{
+    border: solid black 2px;
+    width: 100%;
+    margin: 20px auto;
+    border-bottom: none;
+
+
+}
+
+
+/* 
+Personal Section Start
+*/
+
+#personal-section{
+
+
+}
+
+.content{
+    margin: 30px;
+
+
+}
+
+.left-div{
+    width: 30%;
+    float: left;
+
+    
+}
+
+.right-div{
+    width: 70%;
+    float: left;
+    text-align: justify;
+
+    
+
+}
+
+.rest-list{
+
+    margin-left: 20px;
+}
+
+.common-hr{
+    border: solid black 1px;
+    border-bottom: none;
+    width: 100%;
+    margin: 20px auto; 
+}
+
+
+
+.footer-info{
+
+    background-color: black;
+    padding: 15px;
+    text-decoration: none;
+    text-align: center;
+    
+}
+.footer-info a{
+
+    color: white;
+    text-decoration: none;
+    margin: 15px;
+
+}
+
+.footer-info p{
+
+    color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
